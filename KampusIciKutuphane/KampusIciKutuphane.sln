@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampusIciKutuphane", "KampusIciKutuphane\KampusIciKutuphane.csproj", "{40535860-1199-4D5F-B867-2800012CC945}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "KampusIciKutuphaneUI", "KampusIciKutuphaneUI\KampusIciKutuphaneUI.njsproj", "{145AC45E-D642-4A54-85AE-CEBB7EB769A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40535860-1199-4D5F-B867-2800012CC945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40535860-1199-4D5F-B867-2800012CC945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40535860-1199-4D5F-B867-2800012CC945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40535860-1199-4D5F-B867-2800012CC945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{145AC45E-D642-4A54-85AE-CEBB7EB769A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{145AC45E-D642-4A54-85AE-CEBB7EB769A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{145AC45E-D642-4A54-85AE-CEBB7EB769A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{145AC45E-D642-4A54-85AE-CEBB7EB769A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B8A1C6C-D394-4ACC-AADF-49188780605E}
+	EndGlobalSection
+EndGlobal

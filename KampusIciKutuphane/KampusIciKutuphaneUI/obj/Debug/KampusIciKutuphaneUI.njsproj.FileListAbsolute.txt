@@ -1,0 +1,3 @@
+D:\D\Dev\web\OzelDers.com\KampusIciKutuphane\KampusIciKutuphane\KampusIciKutuphaneUI\obj\Debug\KampusIciKutuphaneUI.njsprojAssemblyReference.cache
+D:\D\Dev\web\OzelDers.com\KampusIciKutuphane\KampusIciKutuphane\KampusIciKutuphaneUI\obj\Debug\KampusIciKutuphaneUI.njsproj.CoreCompileInputs.cache
+D:\D\Dev\web\OzelDers.com\KampusIciKutuphane\KampusIciKutuphane\KampusIciKutuphaneUI\bin\Microsoft.NodejsTools.WebRole.dll
